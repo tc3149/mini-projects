@@ -4,4 +4,4 @@ A consortium of programs
 
 1. Fibonacci
 Returns the nth Fibonacci number by using a recursive function. 
-Use: py Fibonacci.py <n>
+Use: py Fibonacci.py n
